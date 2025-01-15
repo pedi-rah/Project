@@ -1,0 +1,304 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5D275F1F-36E2-4B19-AD67-DC50CD9E1EB3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SchoolManagementSystem</RootNamespace>
+    <AssemblyName>SchoolManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutCollege.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutCollege.Designer.cs">
+      <DependentUpon>AboutCollege.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Class1.cs" />
+    <Compile Include="DeleteStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeleteStudent.Designer.cs">
+      <DependentUpon>DeleteStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Fees.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Fees.Designer.cs">
+      <DependentUpon>Fees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="searchTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="searchTeacher.Designer.cs">
+      <DependentUpon>searchTeacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teacher.Designer.cs">
+      <DependentUpon>teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IndividualDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IndividualDetails.Designer.cs">
+      <DependentUpon>IndividualDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewAdmission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewAdmission.Designer.cs">
+      <DependentUpon>NewAdmission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OldAdmission.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OldAdmission.Designer.cs">
+      <DependentUpon>OldAdmission.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegisterEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegisterEmployee.Designer.cs">
+      <DependentUpon>RegisterEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="schoolDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>schoolDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="schoolDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>schoolDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SearchStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchStudent.Designer.cs">
+      <DependentUpon>SearchStudent.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutCollege.resx">
+      <DependentUpon>AboutCollege.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteStudent.resx">
+      <DependentUpon>DeleteStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Fees.resx">
+      <DependentUpon>Fees.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="searchTeacher.resx">
+      <DependentUpon>searchTeacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teacher.resx">
+      <DependentUpon>teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IndividualDetails.resx">
+      <DependentUpon>IndividualDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewAdmission.resx">
+      <DependentUpon>NewAdmission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OldAdmission.resx">
+      <DependentUpon>OldAdmission.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegisterEmployee.resx">
+      <DependentUpon>RegisterEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchStudent.resx">
+      <DependentUpon>SearchStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="schoolDataSet.xsc">
+      <DependentUpon>schoolDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="schoolDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>schoolDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="schoolDataSet.xss">
+      <DependentUpon>schoolDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="schoolDataSet1.xsc">
+      <DependentUpon>schoolDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="schoolDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>schoolDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="schoolDataSet1.xss">
+      <DependentUpon>schoolDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banara_schoolImg21122016104034am.jpg" />
+    <None Include="Resources\kis.png" />
+    <None Include="Resources\content_1417713014--international-school %281%29.jpg" />
+    <None Include="Resources\theme-preview01.png" />
+    <None Include="Resources\ADMISSION-Logo.png" />
+    <None Include="Resources\admission1.png" />
+    <None Include="Resources\ee9b705677466e520fdbd5892bba8a19.png" />
+    <None Include="Resources\feesLogo.png" />
+    <None Include="Resources\deleteStd.png" />
+    <None Include="Resources\registerEmp.png" />
+    <None Include="Resources\login.png" />
+    <None Include="Resources\register-button0.png" />
+    <None Include="Resources\login-system-icon-13.png" />
+    <None Include="Resources\icp1.jpg" />
+    <None Include="Resources\icpField.png" />
+    <None Include="Resources\icpFieldr.png" />
+    <None Include="Resources\search-flat.png" />
+    <None Include="icons\admissions-message-logo.png" />
+    <None Include="icons\icon-fees.png" />
+    <None Include="icons\stdicon.png" />
+    <None Include="icons\icon_djt_mb_im_a_teacher_296691.png" />
+    <None Include="icons\remstdicon.png" />
+    <None Include="icons\abouticon.png" />
+    <None Include="icons\exiticon.png" />
+    <Content Include="school.mdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="school_log.ldf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <DependentUpon>school.mdf</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

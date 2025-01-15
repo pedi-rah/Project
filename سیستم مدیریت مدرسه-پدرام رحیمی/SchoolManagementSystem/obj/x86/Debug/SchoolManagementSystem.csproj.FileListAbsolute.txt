@@ -1,0 +1,84 @@
+c:\users\n\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+c:\users\n\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+c:\users\n\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Form1.resources
+c:\users\n\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Properties.Resources.resources
+c:\users\n\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+c:\users\n\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.exe
+c:\users\n\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.pdb
+c:\users\n\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Home.resources
+c:\users\n\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.RegisterEmployee.resources
+c:\users\n\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\school.mdf
+c:\users\n\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\school_log.ldf
+C:\Users\N\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\N\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.NewAdmission.resources
+C:\Users\N\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Fees.resources
+C:\Users\N\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\N\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.SearchStudent.resources
+C:\Users\N\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.IndividualDetails.resources
+C:\Users\N\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.AboutSchool.resources
+C:\Users\N\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.DeleteStudent.resources
+C:\Users\N\documents\visual studio 2010\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.OldAdmission.resources
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\school.mdf
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\school_log.ldf
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.AboutSchool.resources
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.DeleteStudent.resources
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Fees.resources
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Form1.resources
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Home.resources
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.IndividualDetails.resources
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.NewAdmission.resources
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.OldAdmission.resources
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Properties.Resources.resources
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.RegisterEmployee.resources
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.SearchStudent.resources
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.exe
+F:\Sem.4\C# Projects\Trials\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.pdb
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\school.mdf
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\school_log.ldf
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.AboutSchool.resources
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.DeleteStudent.resources
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Fees.resources
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Form1.resources
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Home.resources
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.IndividualDetails.resources
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.NewAdmission.resources
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.OldAdmission.resources
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Properties.Resources.resources
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.RegisterEmployee.resources
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.SearchStudent.resources
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.exe
+F:\Sem.4\C# Projects\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.pdb
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\school.mdf
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\school_log.ldf
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.AboutSchool.resources
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.DeleteStudent.resources
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Fees.resources
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Form1.resources
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Home.resources
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.IndividualDetails.resources
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.NewAdmission.resources
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.OldAdmission.resources
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Properties.Resources.resources
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.RegisterEmployee.resources
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.SearchStudent.resources
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.exe
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.pdb
+F:\Sem.4\C# Projects\College management system\SchoolManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.teacher.resources

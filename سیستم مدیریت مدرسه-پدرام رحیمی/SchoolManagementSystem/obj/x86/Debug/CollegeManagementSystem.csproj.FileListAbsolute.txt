@@ -1,0 +1,118 @@
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\school.mdf
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\school_log.ldf
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\CollegeManagementSystem.csprojResolveAssemblyReference.cache
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.DeleteStudent.resources
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Fees.resources
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Form1.resources
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.teacher.resources
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Home.resources
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.IndividualDetails.resources
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.NewAdmission.resources
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.OldAdmission.resources
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Properties.Resources.resources
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.RegisterEmployee.resources
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.SearchStudent.resources
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\CollegeManagementSystem.csproj.GenerateResource.Cache
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\CollegeManagementSystem.csproj.CoreCompileInputs.cache
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.exe
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.pdb
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.searchTeacher.resources
+F:\Sem.4\C# Projects\College management system\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.AboutCollege.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\school.mdf
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\school_log.ldf
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\CollegeManagementSystem.csprojResolveAssemblyReference.cache
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.AboutCollege.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.DeleteStudent.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Fees.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Form1.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.searchTeacher.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.teacher.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Home.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.IndividualDetails.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.NewAdmission.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.OldAdmission.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Properties.Resources.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.RegisterEmployee.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.SearchStudent.resources
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\CollegeManagementSystem.csproj.GenerateResource.Cache
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\CollegeManagementSystem.csproj.CoreCompileInputs.cache
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.exe
+F:\Code Projects Files\NEWW C Projects 19nov\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.pdb
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.exe
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.pdb
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\school.mdf
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\school_log.ldf
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\CollegeManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.AboutCollege.resources
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.DeleteStudent.resources
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Fees.resources
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Form1.resources
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.searchTeacher.resources
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.teacher.resources
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Home.resources
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.IndividualDetails.resources
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.NewAdmission.resources
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.OldAdmission.resources
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Properties.Resources.resources
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.RegisterEmployee.resources
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.SearchStudent.resources
+C:\Users\Janobe\Downloads\Compressed\COLLEGE_MANAGEMENT_SYSTEM_IN_C_WITH_SOURCE_CODE\CollegeManagementSystem_C#\CollegeManagementSystem\SchoolManagementSystem\obj\x86\Debug\CollegeManagementSystem.csproj.GenerateResource.Cache
+D:\New folder (3)\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+D:\New folder (3)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.pdb
+D:\New folder (4)\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.pdb
+D:\New folder (4)\SchoolManagementSystem\bin\Debug\school.mdf
+D:\New folder (4)\SchoolManagementSystem\bin\Debug\school_log.ldf
+D:\New folder (4)\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+D:\New folder (4)\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\CollegeManagementSystem.csprojResolveAssemblyReference.cache
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.AboutCollege.resources
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.DeleteStudent.resources
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Fees.resources
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Form1.resources
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.searchTeacher.resources
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.teacher.resources
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Home.resources
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.IndividualDetails.resources
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.NewAdmission.resources
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.OldAdmission.resources
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Properties.Resources.resources
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.RegisterEmployee.resources
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.SearchStudent.resources
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\CollegeManagementSystem.csproj.GenerateResource.Cache
+D:\New folder (4)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.exe
+C:\Users\kaleng\Desktop\New folder (3)\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\kaleng\Desktop\New folder (3)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.exe
+C:\Users\kaleng\Desktop\New folder (3)\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.pdb
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\bin\Debug\school.mdf
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\bin\Debug\school_log.ldf
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\CollegeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.AboutCollege.resources
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.DeleteStudent.resources
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Fees.resources
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Form1.resources
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.searchTeacher.resources
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.teacher.resources
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Home.resources
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.IndividualDetails.resources
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.NewAdmission.resources
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.OldAdmission.resources
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.Properties.Resources.resources
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.RegisterEmployee.resources
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.SearchStudent.resources
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\CollegeManagementSystem.csproj.GenerateResource.cache
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\CollegeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.exe
+C:\Users\Pedram\Desktop\سیستم مدیریت مدرسه-پدرام رحیمی\SchoolManagementSystem\obj\x86\Debug\SchoolManagementSystem.pdb
